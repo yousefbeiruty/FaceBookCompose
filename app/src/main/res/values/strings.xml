@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FacebookCompose</string>
+
+    <string name="facebook_app_id">1223978821715410</string>
+    <string name="fb_login_protocol_scheme">fb1223978821715410</string>
+    <string name="facebook_client_token">db11d1ed9e3154edb7cf814175c48c36</string>
+
+
+    <string name="home">Home</string>
+    <string name="home_h">Home</string>
+    <string name="tv">Tv</string>
+    <string name="store">Store</string>
+    <string name="news">News</string>
+    <string name="notifications">Notifications</string>
+    <string name="menu">Menu</string>
+    <string name="whats_on_your_mind">What\'s on your mind?</string>
+    <string name="live">Live</string>
+    <string name="photo">Photo</string>
+    <string name="discuss">Discuss</string>
+    <string name="just_now">Just now</string>
+    <string name="create_story">Create Story</string>
+
+</resources>
